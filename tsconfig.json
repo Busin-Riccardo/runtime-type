@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "target": "esnext",
+    "declaration": true,
+    "module": "commonjs",
+    "lib": ["ES2020", "dom"],
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "moduleResolution": "Node",
+    "baseUrl": "./",
+    "jsx": "react",
+    "importHelpers": true
+  },
+  "include": ["src"]
+}

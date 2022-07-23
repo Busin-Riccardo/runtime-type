@@ -1,0 +1,14 @@
+{
+  "name": "@busin/runtime-type",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "fp-ts": "^2.12.1",
+    "io-ts": "^2.2.16",
+    "tslib": "^2.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
